@@ -33,7 +33,8 @@ Flask offers suggestions, but doesn't enforce any dependencies or project layout
 It is up to the developer to choose the tools and libraries they want to use. 
 There are many extensions provided by the community that make adding new functionalities easy.
 
-#####There are two sections in this project 
+####There are two sections in this project 
+
     * The first section shows the segmentation on a image
     * The Second section helps to perform clipping on the image.
 
